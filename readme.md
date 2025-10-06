@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    <a href="https://moebits.github.io/deviantart.ts/"><img src="https://raw.githubusercontent.com/Moebits/deviantart.ts/master/images/deviantart.tslogo.gif" width="500" /></a>
+    <a href="https://moebits.github.io/deviantart.ts/"><img src="https://raw.githubusercontent.com/Moebytes/deviantart.ts/master/images/deviantart.tslogo.png" width="500" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/deviantart.ts/"><img src="https://nodei.co/npm/deviantart.ts.png" /></a>
