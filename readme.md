@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    <a href="https://moebytes.github.io/deviantart.ts/"><img src="https://raw.githubusercontent.com/Moebytes/deviantart.ts/master/images/deviantart.tslogo.png" width="500" /></a>
+    <a href="https://moestash.github.io/deviantart.ts/"><img src="https://raw.githubusercontent.com/Moestash/deviantart.ts/master/images/deviantart.tslogo.png" width="500" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/deviantart.ts/"><img src="https://nodei.co/npm/deviantart.ts.png" /></a>
@@ -21,7 +21,7 @@ Register an app at [**DeviantArt Developers**](https://www.deviantart.com/develo
 ### Useful Links
 
 - [**Official DeviantArt Documentation**](https://www.deviantart.com/developers/http/v1/20160316)
-- [**DeviantArt.ts Documentation**](https://moebytes.github.io/deviantart.ts/)
+- [**DeviantArt.ts Documentation**](https://moestash.github.io/deviantart.ts/)
 
 #### Searching for Deviations
 ```ts

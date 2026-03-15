@@ -1,6 +1,6 @@
 {
   "name": "deviantart.ts",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Wrapper for the DeviantArt API with typings",
   "main": "dist/deviantart.js",
   "types": "dist/deviantart.d.ts",
@@ -20,9 +20,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebytes/deviantart.ts"
+    "url": "https://github.com/Moestash/deviantart.ts"
   },
-  "author": "Moebytes",
+  "author": "Moestash",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.3",
